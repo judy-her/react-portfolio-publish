@@ -20,7 +20,7 @@ function About() {
           <div className="profile-image-box">
             <img
               className="bio-image"
-              src=" ../React-Portfolio/src/assets/images/Me-pic.png"
+              src=" ../src/assets/about/Me-pic.png"
               alt="profile image"
             />
           </div>

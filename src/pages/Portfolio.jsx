@@ -13,15 +13,13 @@ function Portfolio() {
         <div className="container ">
           <div className="row justify-content-start">
             <Card
-              imageSrc={' ../React-Portfolio/src/assets/images/sql-tracker.png'}
+              imageSrc={' ../src/assets/work/sql-tracker.png'}
               title={'SQL Epmloyee Tracker'}
               description={'MySQL Node'}
               link={'https://github.com/judy-her/sql-employee-tracker'}
             />
             <Card
-              imageSrc={
-                ' ../React-Portfolio/src/assets/images/beat-by-beat2.0.png'
-              }
+              imageSrc={' ../src/assets/work/beat-by-beat2.0.png'}
               title={'FullStack Group Project'}
               description={'Express JS API'}
               link={'https://beatbybeatv2-d6c2b024a00e.herokuapp.com/'}
@@ -30,7 +28,7 @@ function Portfolio() {
             {/* force to break midpoint */}
             <div className="w-100 d-none d-md-block"></div>
             <Card
-              imageSrc={' ../React-Portfolio/src/assets/images/Regex-gist.png'}
+              imageSrc={' ../src/assets/work/Regex-gist.png'}
               title={'Regex Gist'}
               description={'Regex  JS'}
               link={
@@ -38,9 +36,7 @@ function Portfolio() {
               }
             />
             <Card
-              imageSrc={
-                ' ../React-Portfolio/src/assets/images/e-commerce-backend.png'
-              }
+              imageSrc={' ../src/assets/work/e-commerce-backend.png'}
               title={'e-comm API backend'}
               description={'MySQL CRUD'}
               link={'https://github.com/judy-her/e-comm-express.js-api'}
