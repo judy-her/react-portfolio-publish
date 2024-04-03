@@ -20,7 +20,7 @@ function About() {
           <div className="profile-image-box">
             <img
               className="bio-image"
-              src=" ../src/assets/about/Me-pic.png"
+              src="/assets/work/Me-Pic.png"
               alt="profile image"
             />
           </div>
