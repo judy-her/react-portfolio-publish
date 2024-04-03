@@ -1,6 +1,6 @@
 import { Link, useLocation } from 'react-router-dom';
 import '../styles/Navbar.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Navbar() {
   const activePage = useLocation().pathname;

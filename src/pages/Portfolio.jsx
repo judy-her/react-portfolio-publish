@@ -1,7 +1,7 @@
 import Card from '../components/Card';
 
 import '../styles/Portfolio.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Portfolio() {
   return (

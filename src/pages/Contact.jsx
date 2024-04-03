@@ -1,6 +1,6 @@
 import '../styles/Contact.css';
 
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Contact() {
   return (

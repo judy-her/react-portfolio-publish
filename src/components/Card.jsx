@@ -1,5 +1,5 @@
 import '../styles/Portfolio.css';
-import 'bootstrap/dist/css/bootstrap.min.css';
+// import 'bootstrap/dist/css/bootstrap.min.css';
 
 function Card({ imageSrc, title, description, link }) {
   return (
